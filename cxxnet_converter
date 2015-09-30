@@ -1,5 +1,5 @@
 /*!
- * \file cxx_convert.cpp v:0.1.2
+ * \file cxx_convert.cpp v:1.2.2.3
  * \brief convert cxx model to caffe model
  * \brief generations of automatic caffe prototxt would be released in future version
  * \author Mrinal Haloi 
