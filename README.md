@@ -8,5 +8,7 @@ To use this module you need cxxnet model configuration and cxxnet model along wi
  
  http://caffe.berkeleyvision.org/
 
+ https://github.com/dmlc/cxxnet
+ 
  ## CXXNET
   - CXXNET model to CAFFE model conversion script
